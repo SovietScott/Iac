@@ -1,4 +1,5 @@
 #!/bin/sh
+#Script de Criação de Estrutura de Usuários, Diretórios e Permissões
 
 echo "Criando todos os grupos de usuários"
 
